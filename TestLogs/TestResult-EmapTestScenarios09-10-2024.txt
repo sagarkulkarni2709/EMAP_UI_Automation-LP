@@ -1,0 +1,133 @@
+
+***************TestResults ForPrintTool - To verify that in Enbridge Landscape Template Layout user is able to print in all the different formats***************
+09-10-2024 12-40-22 Application successfully.
+09-10-2024 12-40-31 Button - OK is clicked
+09-10-2024 12-40-31 Button - CrossIconAboutTool is clicked
+09-10-2024 12-40-31 Option - Print tool is clicked
+09-10-2024 12-40-38 DropDown - Layout is clicked
+09-10-2024 12-40-41 DropDown Layout item is clicked
+09-10-2024 12-40-41 DropDown - Format is clicked
+09-10-2024 12-40-45 DropDown Layout item is clicked
+09-10-2024 12-41-26 Clear Print Button is clicked
+09-10-2024 12-41-27 DropDown - Format is clicked
+09-10-2024 12-41-28 DropDown Layout item is clicked
+09-10-2024 12-41-59 Clear Print Button is clicked
+09-10-2024 12-42-00 DropDown - Format is clicked
+09-10-2024 12-42-02 DropDown Layout item is clicked
+09-10-2024 12-42-34 Clear Print Button is clicked
+09-10-2024 12-42-35 DropDown - Format is clicked
+09-10-2024 12-42-36 DropDown Layout item is clicked
+09-10-2024 12-43-07 Clear Print Button is clicked
+09-10-2024 12-43-08 DropDown - Format is clicked
+09-10-2024 12-43-09 DropDown Layout item is clicked
+09-10-2024 12-43-40 Clear Print Button is clicked
+09-10-2024 12-43-41 DropDown - Format is clicked
+09-10-2024 12-43-42 DropDown Layout item is clicked
+09-10-2024 12-44-14 Clear Print Button is clicked
+09-10-2024 12-44-15 DropDown - Format is clicked
+09-10-2024 12-44-16 DropDown Layout item is clicked
+09-10-2024 12-44-47 Clear Print Button is clicked
+09-10-2024 12-44-48 DropDown - Format is clicked
+09-10-2024 12-44-49 DropDown Layout item is clicked
+09-10-2024 12-45-22 Clear Print Button is clicked
+***************TestResults ForPrintTool - To verify that in Enbridge Landscape Template Attributes Layout user is able to print in all the different formats***************
+09-10-2024 12-45-34 Application successfully.
+09-10-2024 12-45-43 Button - OK is clicked
+09-10-2024 12-45-43 Button - CrossIconAboutTool is clicked
+09-10-2024 12-45-44 Option - Print tool is clicked
+09-10-2024 12-45-47 DropDown - Layout is clicked
+09-10-2024 12-45-50 DropDown Layout item is clicked
+09-10-2024 12-45-50 Print Close Icon is clicked
+09-10-2024 12-45-51 Search-In Dropdown is clicked
+09-10-2024 12-45-51 Entity Type is clicked
+09-10-2024 12-45-52 Search Box input field is populated with value : Alexander
+09-10-2024 12-45-55 SearchIcon is clicked
+09-10-2024 12-46-00 SearchResult is clicked
+09-10-2024 12-46-01 Clear Search is clicked
+09-10-2024 12-46-04 Option - Measurement tool is clicked
+09-10-2024 12-46-07 Attribute Button is clicked
+09-10-2024 12-46-12 Attribute Button is clicked
+09-10-2024 12-46-12 DropDown - Format is clicked
+09-10-2024 12-46-14 DropDown Layout item is clicked
+***************TestResults ForPrintTool - To verify that in Enbridge Portrait Template Layout user is able to print in all the different formats***************
+09-10-2024 12-46-38 Application successfully.
+09-10-2024 12-46-46 Button - OK is clicked
+09-10-2024 12-46-46 Button - CrossIconAboutTool is clicked
+09-10-2024 12-46-46 Option - Print tool is clicked
+09-10-2024 12-46-49 DropDown - Layout is clicked
+09-10-2024 12-46-52 DropDown Layout item is clicked
+09-10-2024 12-46-52 DropDown - Format is clicked
+09-10-2024 12-46-56 DropDown Layout item is clicked
+09-10-2024 12-47-32 Clear Print Button is clicked
+09-10-2024 12-47-33 DropDown - Format is clicked
+09-10-2024 12-47-34 DropDown Layout item is clicked
+09-10-2024 12-48-05 Clear Print Button is clicked
+09-10-2024 12-48-07 DropDown - Format is clicked
+09-10-2024 12-48-08 DropDown Layout item is clicked
+09-10-2024 12-48-39 Clear Print Button is clicked
+09-10-2024 12-48-40 DropDown - Format is clicked
+09-10-2024 12-48-41 DropDown Layout item is clicked
+09-10-2024 12-49-11 Clear Print Button is clicked
+09-10-2024 12-49-13 DropDown - Format is clicked
+09-10-2024 12-49-14 DropDown Layout item is clicked
+09-10-2024 12-49-45 Clear Print Button is clicked
+09-10-2024 12-49-47 DropDown - Format is clicked
+09-10-2024 12-49-48 DropDown Layout item is clicked
+09-10-2024 12-50-19 Clear Print Button is clicked
+09-10-2024 12-50-20 DropDown - Format is clicked
+09-10-2024 12-50-22 DropDown Layout item is clicked
+09-10-2024 12-50-53 Clear Print Button is clicked
+09-10-2024 12-50-54 DropDown - Format is clicked
+09-10-2024 12-50-56 DropDown Layout item is clicked
+09-10-2024 12-51-27 Clear Print Button is clicked
+***************TestResults ForPrintTool - To verify that in Enbridge Portrait Template Attributes Layout user is able to print in all the different formats***************
+09-10-2024 12-51-43 Application successfully.
+09-10-2024 12-51-56 Button - OK is clicked
+09-10-2024 12-51-57 Button - CrossIconAboutTool is clicked
+09-10-2024 12-51-58 Option - Print tool is clicked
+09-10-2024 12-52-02 DropDown - Layout is clicked
+09-10-2024 12-52-04 DropDown Layout item is clicked
+09-10-2024 12-52-05 Print Close Icon is clicked
+09-10-2024 12-52-05 Search-In Dropdown is clicked
+09-10-2024 12-52-06 Entity Type is clicked
+09-10-2024 12-52-08 Search Box input field is populated with value : Alexander
+09-10-2024 12-52-11 SearchIcon is clicked
+09-10-2024 12-52-15 SearchResult is clicked
+09-10-2024 12-52-17 Clear Search is clicked
+09-10-2024 12-52-18 Option - Measurement tool is clicked
+09-10-2024 12-52-19 Attribute Button is clicked
+09-10-2024 12-52-22 Attribute Button is clicked
+09-10-2024 12-52-22 DropDown - Format is clicked
+09-10-2024 12-52-25 DropDown Layout item is clicked
+***************TestResults ForPrintTool - To verify that in LP_ClassLocation_Layout_Static_PROD_10.4 Layout user is able to print in all the different formats***************
+09-10-2024 12-52-49 Application successfully.
+09-10-2024 12-52-57 Button - OK is clicked
+09-10-2024 12-52-57 Button - CrossIconAboutTool is clicked
+09-10-2024 12-52-58 Option - Print tool is clicked
+09-10-2024 12-53-00 DropDown - Layout is clicked
+09-10-2024 12-53-04 DropDown Layout item is clicked
+09-10-2024 12-53-04 DropDown - Format is clicked
+09-10-2024 12-53-08 DropDown Layout item is clicked
+09-10-2024 12-53-30 Clear Print Button is clicked
+09-10-2024 12-53-31 DropDown - Format is clicked
+09-10-2024 12-53-32 DropDown Layout item is clicked
+09-10-2024 12-53-54 Clear Print Button is clicked
+09-10-2024 12-53-55 DropDown - Format is clicked
+09-10-2024 12-53-56 DropDown Layout item is clicked
+09-10-2024 12-54-19 Clear Print Button is clicked
+09-10-2024 12-54-20 DropDown - Format is clicked
+09-10-2024 12-54-21 DropDown Layout item is clicked
+09-10-2024 12-54-45 Clear Print Button is clicked
+09-10-2024 12-54-47 DropDown - Format is clicked
+09-10-2024 12-54-49 DropDown Layout item is clicked
+09-10-2024 12-55-11 Clear Print Button is clicked
+09-10-2024 12-55-12 DropDown - Format is clicked
+09-10-2024 12-55-13 DropDown Layout item is clicked
+09-10-2024 12-55-38 Clear Print Button is clicked
+09-10-2024 12-55-39 DropDown - Format is clicked
+09-10-2024 12-55-40 DropDown Layout item is clicked
+09-10-2024 12-56-03 Clear Print Button is clicked
+09-10-2024 12-56-04 DropDown - Format is clicked
+09-10-2024 12-56-05 DropDown Layout item is clicked
+09-10-2024 12-56-28 Clear Print Button is clicked
+------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,26 @@
+
+***************TestResults ForAppdata Tool - To verify that user should be able to add data from a web URL in Appdata tool***************
+08-10-2024 16-46-58 Application successfully.
+08-10-2024 16-47-06 Button - OK is clicked
+08-10-2024 16-47-06 Button - CrossIconAboutTool is clicked
+08-10-2024 16-47-08 Option - Appdata tool is clicked
+08-10-2024 16-47-09 Option - URL is clicked
+08-10-2024 16-47-09 Type Dropdown is clicked
+08-10-2024 16-47-09 Dropdown Item is clicked
+08-10-2024 16-47-09 Link Sample URLs is clicked
+08-10-2024 16-47-10 URL input field is populated with value : http://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/World_Cities/FeatureServer/0
+08-10-2024 16-47-10 Button - Add is clicked
+08-10-2024 16-47-11 Close - Add Data is clicked
+08-10-2024 16-47-11 Button - ZoomOut is clicked
+***************TestResults ForAppdata Tool - To verify that user should be able to add data using serach section in Appdata tool***************
+08-10-2024 16-47-25 Application successfully.
+08-10-2024 16-47-33 Button - OK is clicked
+08-10-2024 16-47-33 Button - CrossIconAboutTool is clicked
+08-10-2024 16-47-35 Option - Appdata tool is clicked
+08-10-2024 16-47-36 Option - Search is clicked
+08-10-2024 16-47-36 Dropdown - Region is clicked
+08-10-2024 16-47-37 Dropdown - Region Item is clicked
+08-10-2024 16-47-38 SearchService input field is populated with value : EnvConst_Permits
+08-10-2024 16-47-38 Search button is clicked
+08-10-2024 16-47-39 Link Add is clicked
+------------------------------------------------------------------------------------------------------------------------------------------------------

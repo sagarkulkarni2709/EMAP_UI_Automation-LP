@@ -1,0 +1,159 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2024-10-09T07:47:12.496Z",
+        "line": 12,
+        "name": "PopupFunctions - To verify that user should be able to add the marker to the location from the popup option",
+        "description": "",
+        "id": "scenarios-for-popup-functions;popupfunctions---to-verify-that-user-should-be-able-to-add-the-marker-to-the-location-from-the-popup-option;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 2995400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.script.stepdefination.BookmarkToolStepDefinition.AfterTest(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 11723950600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Application is launched in browser for Popup Functions SheetName \"PopupFunctions\" and rownumber 0",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"PopupFunctions\"",
+                  "offset": 65
+                },
+                {
+                  "val": "0",
+                  "offset": 96
+                }
+              ],
+              "location": "com.script.stepdefination.PopupFunctionsStepDefinition.LaunchApplication(java.lang.String,int)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 14640926500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Popup should be opened",
+            "match": {
+              "location": "com.script.stepdefination.PopupFunctionsStepDefinition.OpenPopup()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8580299700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User should be able to add the marker to the location from the popup option",
+            "match": {
+              "location": "com.script.stepdefination.PopupFunctionsStepDefinition.AddMarker()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regressiontest"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-10-09T07:47:47.557Z",
+        "line": 22,
+        "name": "PopupFunctions - To verify that user should be able to open attribute table from popup window",
+        "description": "",
+        "id": "scenarios-for-popup-functions;popupfunctions---to-verify-that-user-should-be-able-to-open-attribute-table-from-popup-window;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 997800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.script.stepdefination.BookmarkToolStepDefinition.AfterTest(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10017653400,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Application is launched in browser for Popup Functions SheetName \"PopupFunctions\" and rownumber 1",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"PopupFunctions\"",
+                  "offset": 65
+                },
+                {
+                  "val": "1",
+                  "offset": 96
+                }
+              ],
+              "location": "com.script.stepdefination.PopupFunctionsStepDefinition.LaunchApplication(java.lang.String,int)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 18106634200,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Popup should be opened",
+            "match": {
+              "location": "com.script.stepdefination.PopupFunctionsStepDefinition.OpenPopup()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9804300800,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User should be able to open attribute table from popup window",
+            "match": {
+              "location": "com.script.stepdefination.PopupFunctionsStepDefinition.ViewAttributeTable()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regressiontest"
+          }
+        ]
+      }
+    ],
+    "name": "Scenarios for Popup Functions",
+    "description": "",
+    "id": "scenarios-for-popup-functions",
+    "keyword": "Feature",
+    "uri": "file:Features/PopupFunctions.feature",
+    "tags": []
+  }
+]

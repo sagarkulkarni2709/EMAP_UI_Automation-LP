@@ -1,0 +1,39 @@
+
+***************TestResults Fornull***************
+04-10-2024 16-27-00 Application successfully.
+04-10-2024 16-27-10 Button - OK is clicked
+04-10-2024 16-27-11 Button - CrossIconAboutTool is clicked
+04-10-2024 16-27-12 Option - LayerListtool is clicked
+04-10-2024 16-27-14 Button - Add is clicked
+04-10-2024 16-27-14 Bookmark Name input field is populated with value : Test
+04-10-2024 16-27-15 CrossIcon - Bookmark tool is clicked
+04-10-2024 16-27-15 Home button is clicked
+04-10-2024 16-27-17 Option - LayerONOFF is clicked
+04-10-2024 16-27-24 Option - Bookmark Tool is clicked
+04-10-2024 16-27-27 Title bookmark is clicked
+04-10-2024 16-27-28 CrossIcon - Bookmark tool is clicked
+04-10-2024 16-27-30 Option - LayerONOFF is clicked
+***************TestResults Fornull***************
+04-10-2024 16-27-43 Application successfully.
+04-10-2024 16-27-51 Button - OK is clicked
+04-10-2024 16-27-51 Button - CrossIconAboutTool is clicked
+04-10-2024 16-27-53 Option - LayerListtool is clicked
+04-10-2024 16-27-54 Button - Add is clicked
+04-10-2024 16-27-56 Bookmark Name input field is populated with value : Test
+04-10-2024 16-27-56 CrossIcon - Bookmark tool is clicked
+04-10-2024 16-27-57 Option - Bookmark Tool is clicked
+04-10-2024 16-28-04 Delete button is clicked
+04-10-2024 16-28-10 CrossIcon - Bookmark tool is clicked
+***************TestResults Fornull***************
+04-10-2024 16-28-28 Application successfully.
+04-10-2024 16-28-40 Button - OK is clicked
+04-10-2024 16-28-41 Button - CrossIconAboutTool is clicked
+04-10-2024 16-28-46 Option - LayerListtool is clicked
+04-10-2024 16-28-49 Button - Add is clicked
+04-10-2024 16-28-50 Bookmark Name input field is populated with value : Test
+04-10-2024 16-28-50 CrossIcon - Bookmark tool is clicked
+04-10-2024 16-28-52 Option - Bookmark Tool is clicked
+04-10-2024 16-28-54 Bookmark Name input field is populated with value : Test1
+04-10-2024 16-28-55 CrossIcon - Bookmark tool is clicked
+04-10-2024 16-28-56 Option - Bookmark Tool is clicked
+------------------------------------------------------------------------------------------------------------------------------------------------------
